@@ -1,0 +1,23 @@
+* {
+    font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+}
+
+body {
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 1000px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#profile_photo {
+    height: 350px;
+    float: left;
+    margin-right: 50px;
+}
