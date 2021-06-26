@@ -3,11 +3,11 @@
 }
 
 body {
-    margin-top: 60px;
-    margin-left: 60px;
+    margin-top: 40px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 100px;
-    width: 1000px;
+    width: 50%;
 }
 
 h1 {
@@ -19,7 +19,8 @@ p {
 }
 
 #profile_photo {
-    height: 350px;
+    width: 35%;
     float: left;
-    margin-right: 50px;
+    margin-right: 3em;
+    margin-bottom: 1em;
 }
